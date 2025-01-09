@@ -27,5 +27,4 @@ I am a .Net & React Fullstack developer. <br>I believe in continuous learning, a
   </a>
 </div>
 
-###
-[![](https://visitcount.itsvg.in/api?id=bbiircan&icon=0&color=6)](https://visitcount.itsvg.in)
+
