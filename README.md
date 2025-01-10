@@ -6,6 +6,7 @@ I am a software developer. <br>I believe in continuous learning and am always op
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bbiircan&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bbiircan&theme=blueberry&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiircan&theme=blueberry&hide_border=true&layout=compact)
 
 ---
 
