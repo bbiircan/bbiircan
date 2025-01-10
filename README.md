@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+<p align="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=82aaff&background=FFFFFF00&width=435&lines=Software+Developer" alt="Typing SVG">
+</p>
+
 I am a software developer. <br>I believe in continuous learning and am always open to gaining more experience, learning new things, and working hard to solidify what I have learned.<br>
 
 # 💻 Tech Stack:
@@ -27,5 +32,6 @@ I am a software developer. <br>I believe in continuous learning and am always op
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
+
 
 
