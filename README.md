@@ -27,10 +27,6 @@ I am a software developer. <br>I believe in continuous learning and am always op
   </a>
     <a href="mailto:dev.rumeysabircan@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-    <a href="https://medium.com/@rumeysabircan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
 </div>
 
 
